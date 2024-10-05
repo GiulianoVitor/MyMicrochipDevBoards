@@ -1,0 +1,12 @@
+#Main page (?)
+https://iot.microchip.com/pic-iot
+
+
+#Microchip IoT Developer Guides for AWS - github
+https://github.com/microchip-pic-avr-solutions/microchip-iot-developer-guides-for-aws
+
+#Application User Guide - AWS
+https://github.com/microchip-pic-avr-solutions/pic-iot-aws-sensor-node
+
+#Git hub Azure samples for Microchip PIC-IoT-Wx Development board
+https://github.com/Azure-Samples/Microchip-PIC-IoT-Wx
