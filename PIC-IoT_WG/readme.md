@@ -6,7 +6,7 @@ The Microchip PIC-IoT Wx board is a small platform for development IoT Solutions
 The variants WA, WG and WM refers to a pre-programmed solutions using **AWS - Amazon Web Services** (WA), **Google Cloud** IoT Core (WG) and **Microsoft Azure** (WM).
 
 > **Note**
-Google Cloud IoT Core has been shut down and can no longer be used.
+> Google Cloud IoT Core has been shut down and can no longer be used.
 
 
 ![Board](Images/board.png)
